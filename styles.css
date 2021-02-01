@@ -29,7 +29,7 @@ h3 {
 }
 
 hr{
-    border: dotted #eaf6f6;
+    border: dotted #99c7c7;
     border-bottom: none;
     width: 5%;
     padding-top: 100 auto;
@@ -52,7 +52,7 @@ a:hover{
     padding-top: 120px;
 }
 .middle-container{
- 
+ background-color: #f6f5f5;
 margin: 100px, 0;
 }
 
@@ -81,7 +81,7 @@ padding: 50px 0 20px;
     top: 400px; 
 }
 
-.mountain {
+.idea {
     margin-bottom:  3rem;
 }
 
@@ -127,7 +127,7 @@ text-align: left;
     margin-left: 30px;
 }
 
-.btn {
+.BUTTON_FKF {
     background: #11CCD4;
     background-image: -webkit-linear-gradient(top, #11CCD4, #11999E);
     background-image: -moz-linear-gradient(top, #11CCD4, #11999E);
@@ -138,7 +138,7 @@ text-align: left;
     -moz-border-radius: 15px;
     border-radius: 15px;
     color: #FFFFFF;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Arial;
     font-size: 20px;
     font-weight: 100;
     padding: 20px;
@@ -165,5 +165,4 @@ text-align: left;
     -moz-border-radius: 20px;
     border-radius: 20px;
     text-decoration: none;
-    text-align: 2;
  }
